@@ -1,0 +1,21 @@
+# Keil MDK 编译产物
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.crf
+*.d
+*.axf
+*.htm
+*.lnp
+*.dep
+*.build_log.htm
+
+# Keil 本地用户配置（含个人用户名，不应上传）
+*.uvguix.*
+*.uvoptx
+*.bak
+
+# 其他
+*.zip
+*.mp4
